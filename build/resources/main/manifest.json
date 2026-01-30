@@ -1,0 +1,16 @@
+{
+  "Group": "TimouneInked",
+  "Name": "LuckyOreMiner",
+  "Version": "1.0.0",
+  "Description": "Lucky mining system for Hytale servers",
+  "Authors": [
+    { "Name": "TimouneInked" }
+  ],
+  "Website": "",
+  "ServerVersion": "*",
+  "Dependencies": { },
+  "OptionalDependencies": { },
+  "DisabledByDefault": false,
+  "Main": "com.TimouneInked.luckyoreminer.LuckyOreMiner",
+  "IncludesAssetPack": true
+}

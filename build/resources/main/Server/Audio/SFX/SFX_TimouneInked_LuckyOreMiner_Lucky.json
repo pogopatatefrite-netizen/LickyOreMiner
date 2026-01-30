@@ -1,0 +1,16 @@
+{
+  "Layers": [
+    {
+      "Files": [
+        "Sounds/TimouneInked_LuckyOreMiner_Lucky.ogg"
+      ],
+      "Volume": 10,
+      "RandomSettings": {
+        "MinPitch": 0.9,
+        "MaxPitch": 1.1
+      }
+    }
+  ],
+  "Volume": 10,
+  "Parent": "SFX_Attn_Loud"
+}

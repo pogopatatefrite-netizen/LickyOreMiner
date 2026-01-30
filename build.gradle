@@ -1,0 +1,39 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.TimouneInked'
+version = '1.0.0'
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(21)
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compileOnly files('libs/HytaleServer.jar')
+    compileOnly 'javax.annotation:javax.annotation-api:1.3.2'
+
+    testImplementation platform('org.junit:junit-bom:5.10.0')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+    options.release.set(21)
+}
+
+tasks.named('jar') {
+    archiveBaseName.set("LuckyOreMiner")
+    archiveVersion.set("")
+    archiveClassifier.set("")
+}
+
+test {
+    useJUnitPlatform()
+}
