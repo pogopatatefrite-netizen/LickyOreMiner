@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"com.timouneinked.luckyoreminer","l":"BreakBlockEventSystem"},{"p":"com.timouneinked.luckyoreminer","l":"LMConfig"},{"p":"com.timouneinked.luckyoreminer","l":"LuckyOreMiner"}];updateSearchResults();

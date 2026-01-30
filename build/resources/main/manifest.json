@@ -1,16 +1,16 @@
 {
   "Group": "TimouneInked",
   "Name": "LuckyOreMiner",
-  "Version": "1.0.0",
-  "Description": "Lucky mining system for Hytale servers",
+  "Version": "1.0.3",
+  "Description": "A mod to get more ores from mining, the more you mine in a row, the more ores you get.",
   "Authors": [
     { "Name": "TimouneInked" }
   ],
   "Website": "",
   "ServerVersion": "*",
-  "Dependencies": { },
-  "OptionalDependencies": { },
+  "Dependencies": {},
+  "OptionalDependencies": {},
   "DisabledByDefault": false,
-  "Main": "com.TimouneInked.luckyoreminer.LuckyOreMiner",
+  "Main": "com.timouneinked.luckyoreminer.LuckyOreMiner",
   "IncludesAssetPack": true
 }

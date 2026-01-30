@@ -1,0 +1,16 @@
+{
+  "Group": "TimouneInked",
+  "Name": "LuckyOreMiner",
+  "Version": "1.0.3",
+  "Description": "A mod to get more ores from mining, the more you mine in a row, the more ores you get.",
+  "Authors": [
+    { "Name": "TimouneInked" }
+  ],
+  "Website": "",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "Main": "com.timouneinked.luckyoreminer.LuckyOreMiner",
+  "IncludesAssetPack": true
+}

@@ -1,0 +1,10 @@
+-classpath 'C:\\Users\\Fred Burns\\IdeaProjects\\Lucky-Mining\\build\\classes\\java\\main;C:\\Users\\Fred Burns\\IdeaProjects\\Lucky-Mining\\build\\resources\\main;C:\\Users\\Fred Burns\\AppData\\Roaming\\Hytale\\install\\release\\package\\game\\latest\\Server\\HytaleServer.jar'
+-quiet 
+-d 'C:\\Users\\Fred Burns\\IdeaProjects\\Lucky-Mining\\build\\docs\\javadoc'
+-windowtitle 'LuckyOreMiner 1.0.3 API'
+-doctitle 'LuckyOreMiner 1.0.3 API'
+-notimestamp 
+-Xdoclint:-missing '-quiet'
+'C:\\Users\\Fred Burns\\IdeaProjects\\Lucky-Mining\\src\\main\\java\\com\\timouneinked\\luckyoreminer\\BreakBlockEventSystem.java'
+'C:\\Users\\Fred Burns\\IdeaProjects\\Lucky-Mining\\src\\main\\java\\com\\timouneinked\\luckyoreminer\\LMConfig.java'
+'C:\\Users\\Fred Burns\\IdeaProjects\\Lucky-Mining\\src\\main\\java\\com\\timouneinked\\luckyoreminer\\LuckyOreMiner.java'
